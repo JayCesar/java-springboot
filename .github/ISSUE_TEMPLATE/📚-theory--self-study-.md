@@ -1,5 +1,5 @@
 ---
-name: Introduction
+name: "\U0001F4DA Theory (self study)"
 about: 'My note from the introduction '
 title: ''
 labels: ''
