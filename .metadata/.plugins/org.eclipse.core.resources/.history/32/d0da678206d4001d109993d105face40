@@ -1,0 +1,21 @@
+package exercises;
+
+import java.util.Locale;
+
+public class verifica_nota_aluno {
+
+	public static void main(String[] args){
+		Locale.setDefault(Locale.US);
+		
+		
+		
+		double n1, n2, nf;
+	
+		nf = n1 + n2; 
+		if 
+		
+		
+	}
+	
+	
+}

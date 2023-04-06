@@ -1,0 +1,24 @@
+package curso_de_programacao;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Assignments
+				String product1 = "Computer";
+				String product2 = "Office desk";
+				
+				int age = 30;
+				int code = 5200;
+				char gender = 'F';
+				
+				double price1 = 2100.0;
+				double price2 = 650.50;
+				double measure = 53.234567;
+				
+				//Data wayout
+				System.out.print("Products");
+				System.out.printf("%s, which price is $ %.2f", product1, price1);
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package exercises;
+
+public class exercicio_de_fixacao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

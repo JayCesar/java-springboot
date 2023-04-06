@@ -1,0 +1,9 @@
+package exercises;
+
+import java.util.Locale;
+
+public class verifica_se_e_par {
+	public static void main(String[] args){
+		Locale.setDeafult(Locale.US);
+	}
+}

@@ -1,0 +1,7 @@
+package exercises;
+
+public class verifica_se_e_negativo {
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+	}
+}

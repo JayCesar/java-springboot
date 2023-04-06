@@ -1,0 +1,25 @@
+package exercises;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class URI_1036_baskara {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		double delta, raizes;
+		
+		double a = sc.nextDouble();
+		double b = sc.nextDouble();
+		double c = sc.nextDouble();
+		
+		delta = Math.pow(b, 2) - (4*a*c);
+		System.out.print(delta);
+		
+		
+		sc.close();
+	}
+}

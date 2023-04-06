@@ -1,0 +1,10 @@
+package exercises;
+
+public class verifica_nota_aluno {
+
+	public static void main (String() args[]){
+		
+	}
+	
+	
+}

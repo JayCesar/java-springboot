@@ -1,0 +1,22 @@
+package exercises;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class le_item_e_codigo {
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		int codItem = sc.nextInt();
+		int quantItem = sc.nextInt();
+		double total;
+		
+		if (codItem == 3) {
+			total = (double) quantItem * 5.00;
+			System.out.printf("Total = R$ total", total);
+		}
+		
+		sc.close();
+	}
+}
