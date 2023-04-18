@@ -6,3 +6,6 @@ This repository was created to add files and my notes from the course POO with J
 
 ### Modificadores de acesso:
 ![2023-04-17_21h04_07](https://user-images.githubusercontent.com/44206400/232636051-07a58470-ce75-4f53-b043-e682dff9a2f8.png)
+
+### Tipos referência vs. tipos valor
+![2023-04-18_11h53_14](https://user-images.githubusercontent.com/44206400/232816569-9203aaa1-6fc2-41fb-9af6-d9e5b84a03a3.png)
