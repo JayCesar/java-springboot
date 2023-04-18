@@ -9,3 +9,6 @@ This repository was created to add files and my notes from the course POO with J
 
 ### Tipos referência vs. tipos valor
 ![2023-04-18_11h53_14](https://user-images.githubusercontent.com/44206400/232816569-9203aaa1-6fc2-41fb-9af6-d9e5b84a03a3.png)
+
+### Sobre Tipos primitivos e 'invólucros':
+![2022-04-13_15h06_18](https://user-images.githubusercontent.com/44206400/232817520-b489b1c6-68e3-4110-a0af-8f040af0b4dd.png)
