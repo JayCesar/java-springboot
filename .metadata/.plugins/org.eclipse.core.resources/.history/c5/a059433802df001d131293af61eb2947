@@ -1,0 +1,34 @@
+package VetorExercises;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ExVetor_Desafio_Pensionato {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.printf("How many rooms will be rented? ");
+		int qtdRoons = sc.nextInt();
+		
+		
+		String[] roons = new String[qtdRoons];
+		
+		
+		for(int i = 0; i < qtdRoons; i++) {
+			System.out.println("Rent #" + (i+1));
+			System.out.print("Name: ");
+			String name = sc.next();
+			System.out.print("Email: ");
+			String email = sc.next();
+			System.out.print("Room: ");
+			int nRoom = sc.nextInt();
+			roons[nRoom] = name + " " + email;
+		}
+		
+		sc.close();
+
+	}
+
+}

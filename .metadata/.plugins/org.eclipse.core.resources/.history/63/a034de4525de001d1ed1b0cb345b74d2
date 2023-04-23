@@ -1,0 +1,26 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+/*
+ Probelma exemplo 2:
+ Fazer um programa para ler um número inteiro N e os dados (nome e
+ preço) de N Produtos. Armazene os N produtos em um vetor. Em
+ seguida, mostrar o preço médio dos produtos.
+ * */
+public class ProgramVetor2 {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		
+		
+		sc.close();
+
+	}
+
+}

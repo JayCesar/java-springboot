@@ -1,0 +1,18 @@
+package app;
+
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class ConvertendoParaTexto {
+
+	public static void main(String[] args) {
+		LocalDate d04 = LocalDate.parse("2023-03-10");
+		LocalDateTime d05 = LocalDateTime.parse("2023-03-10T01:30:26");
+		Instant d06 = Instant.parse("2023-03-10T01:30:26Z");
+		
+		// https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/time/format/DateTimeFormatter.html
+
+	}
+
+}

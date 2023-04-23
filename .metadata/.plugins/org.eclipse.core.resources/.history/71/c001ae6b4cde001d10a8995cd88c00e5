@@ -1,0 +1,21 @@
+package VetorExercises;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ExVetor_Dados_Pessoas {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Quantas pessoas serão digitadas? ");
+		int n = sc.nextInt();
+		
+		
+		
+		sc.close();
+
+	}
+
+}

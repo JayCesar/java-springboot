@@ -1,0 +1,10 @@
+package entities;
+
+public class ExConta {
+	private int accountNumber;
+	private String accountName;
+	private double depositValue;
+
+	
+
+}

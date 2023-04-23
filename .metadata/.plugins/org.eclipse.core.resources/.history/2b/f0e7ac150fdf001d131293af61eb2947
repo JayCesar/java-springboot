@@ -1,0 +1,21 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program_Pensionato_Again {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Rent[] roons = new Rent[10];
+		
+		System.out.print("How many rooms will be rented: ");
+		int n = sc.nextInt();
+		
+		sc.close();
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package entities;
+
+public class CorrectEmployee {
+
+	private Integer id;
+	private String name;
+	private Double salary;
+	
+	public CorrectEmployee(Integer id, String name, Double salary) {
+		this.id = id;
+		this.name = name;
+		this.salary = salary;
+	}
+	
+	
+}

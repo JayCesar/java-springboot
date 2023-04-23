@@ -1,0 +1,24 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.AccountCorrection;
+
+public class ProgramAccountCorrection {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		AccountCorrection account;
+		
+		
+		
+		
+		sc.close();
+
+	}
+
+}

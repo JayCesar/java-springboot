@@ -1,0 +1,27 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.Rent;
+
+public class Program_Pensionato_Again {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Rent[] roons = new Rent[10];
+		for (int i = 1; i < 1; i++) {
+			System.out.println(roons[i]);
+		}
+		
+		
+		System.out.print("How many rooms will be rented: ");
+		int n = sc.nextInt();
+		
+		sc.close();
+
+	}
+
+}

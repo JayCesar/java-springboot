@@ -1,0 +1,10 @@
+package exercises;
+
+public class URI_1143_for_le_numero_positivo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

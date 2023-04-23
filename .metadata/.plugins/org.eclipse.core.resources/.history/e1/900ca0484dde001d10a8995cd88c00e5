@@ -1,0 +1,41 @@
+package VetorExercises;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ExVetor_Dados_Pessoas {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Quantas pessoas serão digitadas? ");
+		int n = sc.nextInt();
+		
+		double[] altura = new double[n];
+		char[] genero = new char[n];
+		double maiorAltura = 0, menorAltura = 0;
+		
+		for (int i = 0; i < n; i++) {
+			System.out.printf("Altura da %da pessoa: ", i + 1);
+			altura[i] = sc.nextDouble();
+			System.out.printf("Gênero da %da pessoa: ", i + 1);
+			genero[i] = sc.next().charAt(0);
+			if (altura[i] > maiorAltura) {
+				maiorAltura = altura[i];
+			}
+			else {
+				menorAltura = altura[i];
+			}
+		}
+		
+		System.out.println("Maior = " + maiorAltura);
+		System.out.println("Menor = " + menorAltura);
+		
+		
+		
+		sc.close();
+
+	}
+
+}
