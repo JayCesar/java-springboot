@@ -6,7 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="Chosed"/>
 		<list key="findhistory">
+			<item value="chosed"/>
 			<item value="&#x09;&#x09;&#x09;System.out.println(&quot;Bom dia&quot;);"/>
 		</list>
 		<list key="replacehistory">
