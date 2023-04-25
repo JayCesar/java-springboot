@@ -1,0 +1,12 @@
+package entities;
+
+import javax.xml.crypto.Data;
+
+import entities.enums.OrderStatus;
+
+public class Order {
+	private Integer id;
+	private Data moment;
+	private OrderStatus status;
+		
+}
