@@ -6,22 +6,24 @@ import java.util.List;
 
 import entities.enums.WorkerLevel;
 
-public class Worker {
+public class Worker{
 	private String name;
 	private WorkerLevel level;
-	private Double baseSalary;
+	private double baseSalary;
 	
-	// Associações:
+	// Agora eu coloco as associações
 	private Department department;
-	private List<HourContract> contracts = new ArrayList<>(); // Pois são vários contratos;
+	List<HourContract> contracts = new ArrayList<>(); // Pelo fato de um trabalhador ter vários contratos, eu terei que represntar por uma lista:
+	// Pois são vários contratos;
 	
 	public Worker() {}
 
-	public Worker(String name, WorkerLevel level, Double baseSalary, Department department) {
+	public Worker(String name, WorkerLevel level, double baseSalary, Department department) {
 		this.name = name;
 		this.level = level;
 		this.baseSalary = baseSalary;
 		this.department = department;
+		// Eu não adiciono a lista!
 	}
 
 	public String getName() {
@@ -40,11 +42,11 @@ public class Worker {
 		this.level = level;
 	}
 
-	public Double getBaseSalary() {
+	public double getBaseSalary() {
 		return baseSalary;
 	}
 
-	public void setBaseSalary(Double baseSalary) {
+	public void setBaseSalary(double baseSalary) {
 		this.baseSalary = baseSalary;
 	}
 
@@ -59,7 +61,10 @@ public class Worker {
 	public List<HourContract> getContracts() {
 		return contracts;
 	}
+
+	// MÉTODOS DA CLSSE:
 	
+	// Eu tenho métodos responsáveis por fazer ou desfazer a associação da calsse worker com os contratos!
 	public void addContract(HourContract contract) {
 		contracts.add(contract);
 	}
@@ -73,14 +78,19 @@ public class Worker {
 		Calendar cal = Calendar.getInstance();
 		
 		for (HourContract c : contracts) {
+			// Agora eu vou 'setar' nesecalendário a data do contrato c:
 			cal.setTime(c.getDate());
 			int c_year = cal.get(Calendar.YEAR);
-			int c_month = 1 + cal.get(Calendar.MONTH);
+			int c_month = 1 + cal.get(Calendar.MONTH); // O mês do calendar começa com zero!
 			if (year == c_year && month == c_month) {
 				sum += c.totalValue();
 			}
+			
 		}
-		
 		return sum;
 	}
+	
 }
+
+
+

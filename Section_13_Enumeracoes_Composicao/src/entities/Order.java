@@ -46,6 +46,6 @@ public class Order {
 		return "Order [id=" + id + ", moment=" + moment + ", status=" + status + "]";
 	}
 	
-	
-	
 }
+ 
+ 
