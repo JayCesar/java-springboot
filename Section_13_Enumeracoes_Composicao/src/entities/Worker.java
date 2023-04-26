@@ -13,7 +13,7 @@ public class Worker{
 	
 	// Agora eu coloco as associações
 	private Department department;
-	List<HourContract> contracts = new ArrayList<>(); // Pelo fato de um trabalhador ter vários contratos, eu terei que represntar por uma lista:
+	List<HourContract> contracts = new ArrayList<>(); // Pelo fato de um trabalhador ter vários contratos, eu terei que representar por uma lista:
 	// Pois são vários contratos;
 	
 	public Worker() {}
