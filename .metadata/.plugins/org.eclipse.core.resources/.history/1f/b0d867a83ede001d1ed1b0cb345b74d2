@@ -1,8 +1,0 @@
-package VetorExercises;
-
-public class ExVetor_Numeros_Pares {
-	
-	public static void main(String[] args) {
-		
-	}
-}
