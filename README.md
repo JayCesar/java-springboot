@@ -12,3 +12,6 @@ This repository was created to add files and my notes from the course POO using 
 
 ### Sobre Tipos primitivos e 'invólucros':
 ![2022-04-13_15h06_18](https://user-images.githubusercontent.com/44206400/232817520-b489b1c6-68e3-4110-a0af-8f040af0b4dd.png)
+
+### Definição de 'Polimorfismo':
+![2023-04-27_16h17_17](https://user-images.githubusercontent.com/44206400/234970694-42bed263-0e92-43cc-a738-80d60c761db2.png)
