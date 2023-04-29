@@ -25,7 +25,7 @@ public class AppUpAndDownCasting {
 		Pelo fato de não ser uma conversão natural, eu tenho que fazer uma conversão manual
 		adicionado o (BusinessAccount) antes da vaiável;
 		
-		Contúdo, repare que acc2 é do mesmo tipo que acc4 que eu criei, por iss dá certo!
+		Contúdo, repare que acc2 é do mesmo tipo que acc4 que eu criei, por isso dá certo!
 	
 		*/
 		
@@ -43,7 +43,7 @@ public class AppUpAndDownCasting {
 			acc5.updateBalance();
 			System.out.println("Update!");
 		}
-		// Obs: eu leio o 'instanceof' como é uma isntância de?
+		// Obs: eu leio o 'instanceof' como é uma instância de?
 		
 	}
 
