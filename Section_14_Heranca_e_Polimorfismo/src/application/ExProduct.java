@@ -52,7 +52,7 @@ public class ExProduct {
 		System.out.println();
 		System.out.println("PRICE TAGS: ");
 		for (Product p : listP) {
-			/*if (p instanceof ImportedProduct) {
+		/*	if (p instanceof ImportedProduct) {
 				System.out.println(p.getName() + p.getClass().total );
 			}*/
 			System.out.println(p.getName() + " " + p.priceTag());

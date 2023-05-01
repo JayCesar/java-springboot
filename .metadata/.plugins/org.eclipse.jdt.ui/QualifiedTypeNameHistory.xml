@@ -22,14 +22,17 @@
     <fullyQualifiedTypeName name="entities.Comment"/>
     <fullyQualifiedTypeName name="entities.Post"/>
     <fullyQualifiedTypeName name="entities.OrderItem"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entities.Order"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="javax.security.auth.login.AccountException"/>
     <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.SavingsAccountAbstrata"/>
+    <fullyQualifiedTypeName name="entities.BusinessAccountAbstrata"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.enums.Color"/>
 </qualifiedTypeNameHistroy>

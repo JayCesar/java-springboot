@@ -1,7 +1,0 @@
-package app;
-
-public class ClaculosComDataHora {
-	public static void main(String[] args) {
-		
-	}
-}
