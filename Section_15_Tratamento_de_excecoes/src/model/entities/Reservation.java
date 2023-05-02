@@ -36,8 +36,8 @@ public class Reservation {
 
 	// TimeUnit é um tiipo Enumerado com operações
 	public long duration() {
-		long diff = checkOut.getTime() - checkIn.getTime(); // Calcula a diferenã em milegundos
-		return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS); // Converte os milegundos para dias
+		long diff = checkOut.getTime() - checkIn.getTime(); // Calcula a diferença em milisegundos
+		return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS); // Converte os milisegundos para dias
 	}
 	
 	public void updateDates(Date checkIn, Date checkOut) {
