@@ -31,7 +31,7 @@ public class ProgramEx {
 				double anualIncome = sc.nextDouble();
 				System.out.print("Health expenditures: ");
 				double healthExpenditures = sc.nextDouble();
-				list.add(new Individual(name, anualIncome, healthExpenditures));
+				list.add(new Individual(name, anualIncome, healthExpenditures));// Polimorfismo
 			}else {
 				System.out.print("Name: ");
 				sc.nextLine();
@@ -40,7 +40,7 @@ public class ProgramEx {
 				double anualIncome = sc.nextDouble();
 				System.out.print("Number of employees: ");
 				int numberOfEmployers = sc.nextInt();
-				list.add(new Company(name, anualIncome, numberOfEmployers));
+				list.add(new Company(name, anualIncome, numberOfEmployers)); // Polimorfismo
 			}
 		}
 		

@@ -2,32 +2,34 @@ package entities;
 
 public class Company extends TaxPayer{
 
-	private Integer numberOfEmployers;
+	private Integer numberOfEmployees;
 	
 	public Company() {
 		super();
 	}
 	
-	public Company(String name, Double anualIncome, Integer numberOfEmployers) {
+	public Company(String name, Double anualIncome, Integer numberOfEmployees) {
 		super(name, anualIncome);
-		this.numberOfEmployers = numberOfEmployers;
+		this.numberOfEmployees = numberOfEmployees;
 	}
 
 
-	public Integer getNumberOfEmployers() {
-		return numberOfEmployers;
+	public Integer getNumberOfEmployees() {
+		return numberOfEmployees;
 	}
 
-	public void setNumberOfEmployers(Integer numberOfEmployers) {
-		this.numberOfEmployers = numberOfEmployers;
+	public void setNumberOfEmployers(Integer numberOfEmployees) {
+		this.numberOfEmployees = numberOfEmployees;
 	}
 
 	@Override
 	public double tax() {
-		double tax = 0.0;
-		return tax += (numberOfEmployers > 10) 
-				? anualIncome * 0.14 
-				: anualIncome * 0.16;
+		double basicTax = 0.0;
+		return basicTax += 
+				(getNumberOfEmployees() > 10) 
+				? getAnualIncome() * 0.14 
+				: getAnualIncome() * 0.16; 
 	}
 
 }
+
