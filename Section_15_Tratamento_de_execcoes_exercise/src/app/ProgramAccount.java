@@ -16,7 +16,7 @@ public class ProgramAccount {
 			System.out.println("Enter account data ");
 			System.out.print("Number: ");
 			int number = sc.nextInt();
-			String name = sc.nextLine();
+			sc.nextLine();
 			System.out.print("Holder: ");
 			String holder = sc.nextLine();
 			System.out.print("Initial balance: ");
