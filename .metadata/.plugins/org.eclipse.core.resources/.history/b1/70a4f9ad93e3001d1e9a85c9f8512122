@@ -1,8 +1,0 @@
-package entities;
-
-public class Order {
-	private Integer id;
-	private Date moment;
-	private OrderStatus status;
-		
-}

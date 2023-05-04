@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="entities.Funcionario"/>
     <fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
     <fullyQualifiedTypeName name="entities.HourContract"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.TimeZone"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="javax.swing.SwingWorker"/>
@@ -29,7 +28,6 @@
     <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entities.SavingsAccountAbstrata"/>
     <fullyQualifiedTypeName name="entities.BusinessAccountAbstrata"/>
     <fullyQualifiedTypeName name="entities.enums.Color"/>
@@ -41,4 +39,7 @@
     <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
     <fullyQualifiedTypeName name="entities.Individual"/>
     <fullyQualifiedTypeName name="entities.Company"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
