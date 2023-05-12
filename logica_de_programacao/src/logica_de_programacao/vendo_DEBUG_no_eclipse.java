@@ -1,12 +1,13 @@
-package exercises;
+package logica_de_programacao;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class calcula_terreno_medidas {
+public class vendo_DEBUG_no_eclipse {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
+		
 		Scanner sc = new Scanner(System.in);
 		
 		double largura = sc.nextDouble();
@@ -16,10 +17,11 @@ public class calcula_terreno_medidas {
 		double area = largura * comprimento;
 		double preco = area * metroQuadrado;
 		
-		System.out.printf("Área = %.2f%n", area);
-		System.out.printf("PREÇO = %.2f%n", preco);
+		System.out.printf("AREA = %.2f%n", area);
+		System.out.printf("PRECO = %.2f%n", preco);
 		
 		sc.close();
+
 	}
 
 }

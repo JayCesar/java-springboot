@@ -5,13 +5,12 @@ programa.
  
 */
 
-package classes;
+package logica_de_programacao;
 
 import java.util.Locale;
 import java.util.Scanner;
 
 public class do_while_converte_celsius_to_fahrenheint {
-
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
@@ -43,5 +42,4 @@ public class do_while_converte_celsius_to_fahrenheint {
 		sc.close();
 
 	}
-
 }
