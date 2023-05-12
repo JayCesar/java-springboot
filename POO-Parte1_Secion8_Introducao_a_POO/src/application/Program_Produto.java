@@ -22,7 +22,6 @@ public class Program_Produto {
 		product.quantity = sc.nextInt();
 		
 		
-		
 		System.out.println();
 		System.out.println("Product data: " + product);
 		
@@ -43,11 +42,7 @@ public class Program_Produto {
 		
 		System.out.println();
 		System.out.println("Updated data: " + product);
-		
-		
-		
-		
-		
+
 		sc.close();
 	}
 
