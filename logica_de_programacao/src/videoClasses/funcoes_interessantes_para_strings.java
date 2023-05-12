@@ -1,4 +1,4 @@
-package logica_de_programacao;
+package videoClasses;
 
 public class funcoes_interessantes_para_strings {
 	public static void main(String[] args) {

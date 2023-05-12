@@ -5,7 +5,7 @@ Escrever na tela o dia da semana correspondente, conforme exemplos
 
 * */
 
-package logica_de_programacao;
+package videoClasses;
 
 import java.util.Scanner;
 

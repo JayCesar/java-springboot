@@ -1,4 +1,4 @@
-package logica_de_programacao;
+package videoClasses;
 
 public class estrutura_condicional {
 	public static void main(String[] args) {

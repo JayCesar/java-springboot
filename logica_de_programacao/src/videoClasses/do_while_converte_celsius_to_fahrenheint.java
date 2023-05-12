@@ -5,7 +5,7 @@ programa.
  
 */
 
-package logica_de_programacao;
+package videoClasses;
 
 import java.util.Locale;
 import java.util.Scanner;

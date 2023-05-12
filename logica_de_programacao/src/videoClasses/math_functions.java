@@ -1,4 +1,4 @@
-package logica_de_programacao;
+package videoClasses;
 
 public class math_functions {
 
