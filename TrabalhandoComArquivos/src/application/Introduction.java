@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Program {
+public class Introduction {
 
 	public static void main (String[] args) {
 		File file = new File("D:\\workspace\\ws-eclipse\\java-springboot\\files_class\\file.txt"); // Precisa de 2 barras!
