@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Introduction {
 
 	public static void main (String[] args) {
-		File file = new File("D:\\workspace\\ws-eclipse\\java-springboot\\files_class\\file.txt"); // Precisa de 2 barras!
+		File file = new File("D:\\workspace\\ws-eclipse\\java-springboot\\TrabalhandoComArquivos\\files\\file.txt"); // Precisa de 2 barras!
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);

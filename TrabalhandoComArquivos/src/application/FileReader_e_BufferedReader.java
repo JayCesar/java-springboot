@@ -7,7 +7,7 @@ import java.io.IOException;
 public class FileReader_e_BufferedReader {
 
 	public static void main(String[] args) {
-		String path = "D:\\workspace\\ws-eclipse\\java-springboot\\files_class\\file.txt";
+		String path = "D:\\workspace\\ws-eclipse\\java-springboot\\TrabalhandoComArquivos\\files\\file.txt";
 		FileReader fr = null;
 		BufferedReader br = null;
 		

@@ -7,7 +7,7 @@ import java.io.IOException;
 public class TryWithResources {
 
 	public static void main(String[] args) {
-		String path = "D:\\workspace\\ws-eclipse\\java-springboot\\files_class\\file.txt";
+		String path = "D:\\workspace\\ws-eclipse\\java-springboot\\TrabalhandoComArquivos\\files\\file.txt";
 	
 		try (BufferedReader br = new BufferedReader(new FileReader(path))) {
 			String line = br.readLine();
