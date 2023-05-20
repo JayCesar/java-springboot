@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="print"/>
+		<item key="selection" value="str"/>
 		<list key="findhistory">
+			<item value="str"/>
 			<item value="print"/>
 			<item value="perform"/>
 			<item value="collec"/>
@@ -26,7 +27,7 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="1012"/>
-		<item key="DIALOG_Y_ORIGIN" value="845"/>
+		<item key="DIALOG_Y_ORIGIN" value="575"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
