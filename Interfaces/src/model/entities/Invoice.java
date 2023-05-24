@@ -29,7 +29,7 @@ public class Invoice {
 	}
 	
 	public Double getTotalPayment() {
-		return getBasicPayment() - tax; 
+		return getBasicPayment() + getTax(); 
 		// Eu devo deixar assim como "getter" pois pode ser que no futuro a regra de negócio mude!
 	}
 	
