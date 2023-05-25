@@ -11,9 +11,9 @@ public class RentalService {
 	private Double pricePerHour;
 	
 	// Association relationship
-	private BrazilTaxService taxService;
+	private TaxService taxService;
 
-	public RentalService(Double pricePerDay, Double pricePerHour, BrazilTaxService taxService) {
+	public RentalService(Double pricePerDay, Double pricePerHour, TaxService taxService) {
 		this.pricePerDay = pricePerDay; 
 		this.pricePerHour = pricePerHour;
 		this.taxService = taxService;
@@ -22,7 +22,6 @@ public class RentalService {
 	public void processInvoice(CarRental carRental) {
 		
 		double minutes = Duration.between(carRental.getStart(), carRental.getFinish()).toMinutes();
-
 		// Esse Duration.beween(x, y) calcula o a duração entre x e y;
 		// O toMinutes() converte para minutos;
 		
