@@ -40,7 +40,7 @@ public class Matrizes {
 			}
 		}
 		
-		System.out.println("Nevative numbers = " + count);
+		System.out.println("Negative numbers = " + count);
 		sc.close();
 
 	}
