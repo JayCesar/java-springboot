@@ -3,9 +3,15 @@ This repository was created to add files and my notes from the course POO using 
 
 ![2023-04-10_21h39_04](https://user-images.githubusercontent.com/44206400/231025833-253f439d-e2dd-44ad-ab7f-989f6f84c67d.png)
 
-
 ### Modificadores de acesso:
 ![2023-04-17_21h04_07](https://user-images.githubusercontent.com/44206400/232636051-07a58470-ce75-4f53-b043-e682dff9a2f8.png)
+
+Modificador | Classe | Pacote | Sub Classe | Mundo
+-- | -- | -- | -- | --
+public | ✔ | ✔ | ✔ | ✔
+protected | ✔ | ✔ | ✔ | ❌
+padrão | ✔ | ✔ | ❌ | ❌
+private | ✔ | ❌ | ❌ | ❌
 
 ### Tipos referência vs. tipos valor
 ![2023-04-18_11h53_14](https://user-images.githubusercontent.com/44206400/232816569-9203aaa1-6fc2-41fb-9af6-d9e5b84a03a3.png)
