@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
     <fullyQualifiedTypeName name="entities.HourContract"/>
     <fullyQualifiedTypeName name="java.util.TimeZone"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
@@ -18,8 +17,6 @@
     <fullyQualifiedTypeName name="entities.SavingsAccountAbstrata"/>
     <fullyQualifiedTypeName name="entities.BusinessAccountAbstrata"/>
     <fullyQualifiedTypeName name="entities.enums.Color"/>
-    <fullyQualifiedTypeName name="entities.Shape"/>
-    <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="entities.Circle"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
     <fullyQualifiedTypeName name="entities.Individual"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="model.services.RentalService"/>
     <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="entities.Shape"/>
+    <fullyQualifiedTypeName name="entities.Rectangle"/>
+    <fullyQualifiedTypeName name="entities.Client"/>
 </qualifiedTypeNameHistroy>
