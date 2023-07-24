@@ -18,7 +18,7 @@ public class ProgramCopyingLists {
 	}
 	
 	// Esse método receberá uma lista 'source' que seja subtipo de número
-	// E esse método terá também uma lista 'destiny' que pode ser super classde Number, ou seja, Object.
+	// E esse método terá também uma lista 'destiny' que pode ser super class de Number, ou seja, Object.
 	public static void copy(List<? extends Number> source, List<? super Number> destiny) {
 		for(Number number : source) {
 			destiny.add(number);
