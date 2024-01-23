@@ -1,4 +1,4 @@
-package Tercerizado;
+package tercerizado;
 
 public class EmkpresaY {
 
