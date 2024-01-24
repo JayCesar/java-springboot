@@ -15,6 +15,5 @@ public class AreaCircunferencia {
 		area = PI * raio * raio;
 		System.out.printf("Area = %.2f", area);
 			
-
 	}
 }
