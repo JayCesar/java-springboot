@@ -27,9 +27,6 @@ public class app {
 			else System.out.println();
 			
 		}
-		
-		
-
 	}
 
 }
