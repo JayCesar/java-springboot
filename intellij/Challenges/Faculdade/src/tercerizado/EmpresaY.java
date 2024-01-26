@@ -1,4 +1,4 @@
 package tercerizado;
 
-public class EmpresaX {
+public class EmpresaY {
 }
