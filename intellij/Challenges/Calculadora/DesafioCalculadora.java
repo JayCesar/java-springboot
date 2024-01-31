@@ -21,7 +21,7 @@ public class DesafioCalculadora {
                         : operacao == '-' ? num1 - num2
                         : operacao == '%' ? num1 % num2
                         : num1 * num2;
-        
+
         // Outra forma:
         String op = String.valueOf(operacao);
         double resultado = "+".equals(op) ? num1 + num2 : 0;
