@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d713180f-2393-4d8a-aa09-42f17668aa47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Faculdade/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/Docker.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.apt.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.boot.dash.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/AreaCircunferencia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/ConjversaoNumeroString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/Console.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/ConversaoDeStringParaNumero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/ConversãoTiposPrimitivosNumericos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/Import.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/Inferencia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/NotacaoPonto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/PrimitivoVsObjeto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/TipoString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/TiposPrimitivos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/bin/fundamentos/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/ConjversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/ConversaoDeStringParaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/ConversãoTiposPrimitivosNumericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/Import.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/TipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fundamentos/src/fundamentos/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/bin/application/app.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/bin/services/FahrenheitToCelsius.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/bin/services/TemperatureConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/src/application/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/src/services/FahrenheitToCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Temperatura/src/services/TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConversaoDeTipos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConversaoDeTipos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConversaoDeTipos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConversaoDeTipos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConversaoDeTipos/ConversaoDeTipos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/administracao/AgendamentoAula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pessoa/Pai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tercerizado/EmpresaY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/Docker.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.apt.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.boot.dash.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/AreaCircunferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/Console.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/Import.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/Inferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/NotacaoPonto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/PrimitivoVsObjeto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/TipoString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/TiposPrimitivos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/bin/fundamentos/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/AreaCircunferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/Console.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/Import.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/Inferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/NotacaoPonto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/PrimitivoVsObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/TipoString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/TiposPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../eclipse/Fundamentos/src/fundamentos/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/administracao/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/pessoa/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/pessoa/Medico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/pessoa/Paciente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/tela/TelaAgendamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/bin/tela/TelaPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/administracao/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/pessoa/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/pessoa/Medico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/pessoa/Paciente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/tela/TelaAgendamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clinica/src/tela/TelaPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/administracao/AgendamentoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pessoa/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pessoa/AuxiliarLimpeza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pessoa/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tela/TelaPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tercerizado/EmkpresaY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tercerizado/EmpresaX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/administracao/AgendamentoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pessoa/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pessoa/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pessoa/AuxiliarLimpeza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pessoa/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pessoa/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tela/TelaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tela/TelaPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tercerizado/EmkpresaY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tercerizado/EmpresaX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tercerizado/EmpresaX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/bin/application/app.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/bin/services/FahrenheitToCelsius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/bin/services/TemperatureConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/src/application/app.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/src/services/FahrenheitToCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temperatura/src/services/TemperatureConverter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bRwxHROvBVdqaaiCoMoGvimBpG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.TelaPrincipal.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;coder-bank&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/java-springboot/intellij/Challenges/Faculdade&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/workspace/java-springboot/intellij/Challenges/Faculdade/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\java-springboot\intellij\Challenges\Faculdade\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d713180f-2393-4d8a-aa09-42f17668aa47" name="Changes" comment="" />
+      <created>1706191445132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706191445132</updated>
+      <workItem from="1706191446173" duration="554000" />
+      <workItem from="1706192020877" duration="141000" />
+      <workItem from="1706193057261" duration="14000" />
+      <workItem from="1706193099302" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

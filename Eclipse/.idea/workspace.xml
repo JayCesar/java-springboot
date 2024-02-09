@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bb5aabe-2db3-4839-bdfd-dede8ec8a5ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/DesafioFor/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/src/conceitos_basicos/IMC/CalculadoraIMC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/src/conceitos_basicos/temperatura/AppTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/src/conceitos_basicos/temperatura/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/src/conceitos_basicos/temperatura/TemperaturaConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/EstruturasDeControle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/EstruturasDeControle/src/If/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/EstruturasDeControle/src/If/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/EstruturasDeControle/src/While/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intellij/EstruturasDeControle/src/While/WhileIndeterminado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/Calculadora/DesafioCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/Challenges/Calculadora/DesafioCalculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/ConversaoDeTipos/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/Challenges/ConversaoDeTipos/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/.idea/Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/Exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/Challenges/Exercicios/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/Calculadora/DesafioCalculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij/Challenges/out/production/Challenges/OperadorAritmetico.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bhOyV555znma1BqPclaEor33BK" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Desafio.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.WhileIndeterminado.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "coder-bank",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/java-springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bb5aabe-2db3-4839-bdfd-dede8ec8a5ec" name="Changes" comment="" />
+      <created>1706664099233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706664099233</updated>
+      <workItem from="1706664100311" duration="2794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
