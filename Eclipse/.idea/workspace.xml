@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bb5aabe-2db3-4839-bdfd-dede8ec8a5ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/src/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/src/db/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/jdbc/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/src/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/src/db/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intellij/teste/teste.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3bb5aabe-2db3-4839-bdfd-dede8ec8a5ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,26 +28,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Desafio.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.WhileIndeterminado.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "nelio-alves",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspace/java-springboot",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileIndeterminado.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nelio-alves&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/java-springboot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,6 +65,7 @@
       <updated>1706664099233</updated>
       <workItem from="1706664100311" duration="2794000" />
       <workItem from="1712196681873" duration="21000" />
+      <workItem from="1712233015829" duration="15000" />
     </task>
     <servers />
   </component>
