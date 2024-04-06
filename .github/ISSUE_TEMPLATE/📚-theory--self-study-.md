@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4DA Theory (self study)"
 about: 'My note from the introduction '
-title: "\U0001F4DA  "
+title: "\U0001F4DA "
 labels: ''
 assignees: JayCesar
 
