@@ -18,12 +18,15 @@ public class NewOrderMain {
         var producer = new KafkaProducer<String, String>(properties());
 
         var value = "132123,675223,91238419";
+        var value2 = "Id Pedido: 13123123, Id Compra: 13124, Valor: R$ 1000,00";
 
         // Agora que eu tenho um producer, posso enviar algo:
         // var record = new ProducerRecord<String, String>("ECOMMERCE_NEW_ORDER", value, value);
         // Ele percebe que é String, String, então eu posso remover:
-        var record = new ProducerRecord<>("ECOMMERCE_NEW_ORDER", value, value);
+        var record = new ProducerRecord<>("ECOMMERCE_NEW_ORDER", value2, value2); // Por ora será a mesma coisa
 
+        // O método send devolve um future - algo que ainda vai rola, por isso é um get, pois eu espero terminar
+        // Isso é um callback:
         producer.send(record, (data, ex) ->{
             if(ex != null){
                 ex.printStackTrace();
@@ -35,10 +38,10 @@ public class NewOrderMain {
 
     private static Properties properties() {
         var properties = new Properties();
-        // Preciso apontar ONDE estão rodando minhas kafkas
+        // Preciso apontar ONDE estão rodando meus kafkas
         properties.setProperty(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "127.0.0.1:9092");
         // Além disso, eu preciso passar os transformadores de Strings para Byte (Serializadores)
-        // Key Serializer é o transformador, depois preciso intigar que será de String, tanto p/ chave quanto p/ o valor
+        // Key Serializer é o transformador, depois preciso mitigar o quê será de String, tanto p/ chave quanto p/ o valor
         properties.setProperty(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName());
         properties.setProperty(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, StringSerializer.class.getName());
         return properties;
